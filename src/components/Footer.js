@@ -23,6 +23,7 @@ function Footer() {
         <motion.p custom={1} variants={textAnimation} className="footer_item">Раз</motion.p>
         <motion.p custom={2} variants={textAnimation} className="footer_item">Два</motion.p>
         <motion.p custom={3} variants={textAnimation} className="footer_item">Три</motion.p>
+        
       </motion.div>
     );
   }
